@@ -1,5 +1,3 @@
 {
-  "name": "Mqtt template switch",
-  "render_readme": true,
-  "domains": ["switch"]
+  "name": "Mqtt template switch"
 }
